@@ -1,6 +1,5 @@
 # angular5-odoorpc
-OdooRPC for angular 5
-
+OdooRPC for Nativescript
 
 ## Installation
 
