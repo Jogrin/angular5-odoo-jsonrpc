@@ -1,6 +1,6 @@
 import { Injectable, Inject } from "@angular/core"
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { android as androidApplication } from "application";
+import { android as androidApplication } from "tns-core-modules/application";
 
 import "rxjs/add/operator/toPromise";
 
